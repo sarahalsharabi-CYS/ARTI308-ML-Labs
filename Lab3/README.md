@@ -1,7 +1,7 @@
 # Netflix Dataset - Exploratory Data Analysis (EDA)
 
-## 📌 Project Description
-This project applies Exploratory Data Analysis (EDA) techniques learned in the lab on the Netflix Movies and TV Shows dataset.  
+## 📌 Lab Description
+This lab applies Exploratory Data Analysis (EDA) techniques learned in the lab on the Netflix Movies and TV Shows dataset.  
 The goal is to clean the dataset, explore patterns, and visualize insights using Python.
 
 This assignment demonstrates data cleaning, visualization, and basic data analysis using pandas, matplotlib, and seaborn.
