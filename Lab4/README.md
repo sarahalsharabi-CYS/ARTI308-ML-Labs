@@ -11,3 +11,5 @@ In this lab, I applied data preprocessing techniques on the Netflix dataset, inc
 - Evaluating correlation between features and deciding whether to apply PCA  
 
 The results show that PCA was not applied due to weak correlation between numerical features.
+
+Dataset used: Netflix Titles Dataset
