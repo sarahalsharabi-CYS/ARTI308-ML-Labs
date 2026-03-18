@@ -1,6 +1,6 @@
 # Lab 4 - Data Quality Assessment & Preprocessing
 
-This repository contains my solution for Lab 4.
+This File contains my solution for Lab 4.
 
 In this lab, I applied data preprocessing techniques on the Netflix dataset, including:
 
