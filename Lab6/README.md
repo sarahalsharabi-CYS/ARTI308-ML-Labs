@@ -6,11 +6,6 @@ This lab applies **Linear Regression** to analyze customer behavior in an e-comm
 
 The main objective of this project is to understand which customer features have the strongest impact on spending and to build a predictive model using machine learning techniques in Python.
 
-## Dataset Description
-
-The dataset used in this project is called **Ecommerce Customers**.
-It contains information about customer activity and spending behavior on an e-commerce platform.
-
 ## Key Findings
 
 The analysis showed that:
