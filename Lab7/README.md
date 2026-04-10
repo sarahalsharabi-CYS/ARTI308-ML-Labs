@@ -1,4 +1,4 @@
-Lab 7 - Logistic Regression
+## Lab 7 - Logistic Regression
 
 In this lab, we applied Logistic Regression to predict whether a user clicked on an advertisement based on several features such as age, income, and internet usage.
 
